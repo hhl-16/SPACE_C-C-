@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "..\\..\\..\\SVN_ELEC\\[R&D] UWB Decawave\\Release\\DWM_LORA\\anchor_lora_ver2\\anchor_lora_ver2.ino",
+    "port": "COM9"
+}
